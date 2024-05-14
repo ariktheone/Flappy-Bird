@@ -1,7 +1,7 @@
 # Flapy Bird Game
 
 ## Game Link
-You can play the game [here](https://ariktheone.github.io/Flappy-Bird/).
+You can play the game <a href="https://ariktheone.github.io/Flappy-Bird/" target="_blank">here</a>.
 
 ## Description
 Flapy Bird is a simple yet addictive browser-based game inspired by the classic "Flappy Bird". The objective of the game is to navigate a bird through a series of pipes without colliding with them. Each successful pass through a set of pipes earns the player one point. The game ends if the bird collides with a pipe or the ground.
@@ -43,5 +43,4 @@ Arijit Mondal
 
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
