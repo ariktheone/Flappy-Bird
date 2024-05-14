@@ -3,6 +3,10 @@
 ## Game Link
 You can play the game <a href="https://ariktheone.github.io/Flappy-Bird/" target="_blank">here</a>.
 
+## Screenshots
+![Game Screenshot](game.png)
+
+
 ## Description
 Flapy Bird is a simple yet addictive browser-based game inspired by the classic "Flappy Bird". The objective of the game is to navigate a bird through a series of pipes without colliding with them. Each successful pass through a set of pipes earns the player one point. The game ends if the bird collides with a pipe or the ground.
 
@@ -24,8 +28,6 @@ Flapy Bird is a simple yet addictive browser-based game inspired by the classic 
 4. Earn points for each successful pass through a set of pipes.
 5. Challenge yourself to beat your high score!
 
-## Screenshots
-![Game Screenshot](game.png)
 
 ## Technologies Used
 - HTML5
