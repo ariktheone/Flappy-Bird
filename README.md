@@ -23,7 +23,7 @@ Flapy Bird is a simple yet addictive browser-based game inspired by the classic 
 
 ## How to Play
 1. Open the `index.html` file in your web browser.
-2. Press the spacebar or left mouse button to make the bird flap its wings.
+2. Press the spacebar to make the bird flap its wings.
 3. Navigate the bird through the pipes by timing your jumps carefully.
 4. Earn points for each successful pass through a set of pipes.
 5. Challenge yourself to beat your high score!
