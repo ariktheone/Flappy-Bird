@@ -43,6 +43,7 @@ Flapy Bird is a simple yet addictive browser-based game inspired by the classic 
 ## Author
 Arijit Mondal
 
+[GitHub](https://github.com/ariktheone) | [LinkedIn](https://www.linkedin.com/in/arijitmondal30/)
 
 
 
